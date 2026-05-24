@@ -34,8 +34,10 @@ The solution is architected as a sequential data processing pipeline, heavily ut
 
 ## 👥 Authors & Credits
 * Shadi Alkeesh
-* Ayman Haj\n
+* Ayman Haj
+
 Academic Supervisors:
 *Dr. Renata Avros
-*Prof. Zeev Volkovich\n
+*Prof. Zeev Volkovich
+
 Institution: ORT Braude College of Engineering (Software Engineering Department).
