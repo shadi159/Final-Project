@@ -32,7 +32,7 @@ The solution is architected as a sequential data processing pipeline, heavily ut
 * Python 3.8+
 * Libraries: `pandas`, `numpy`, `scipy`, `scikit-learn`, `PyWavelets`, `pyarabic`, `matplotlib`
 
-##👥 Authors & Credits
+## 👥 Authors & Credits
 Shadi Alkeesh
 Ayman Haj
 Academic Supervisors:
