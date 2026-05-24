@@ -33,9 +33,9 @@ The solution is architected as a sequential data processing pipeline, heavily ut
 * Libraries: `pandas`, `numpy`, `scipy`, `scikit-learn`, `PyWavelets`, `pyarabic`, `matplotlib`
 
 ## 👥 Authors & Credits
-Shadi Alkeesh
-Ayman Haj
+* Shadi Alkeesh
+* Ayman Haj\n
 Academic Supervisors:
-Dr. Renata Avros
-Prof. Zeev Volkovich
+*Dr. Renata Avros
+*Prof. Zeev Volkovich\n
 Institution: ORT Braude College of Engineering (Software Engineering Department).
