@@ -37,7 +37,7 @@ The solution is architected as a sequential data processing pipeline, heavily ut
 * Ayman Haj
 
 Academic Supervisors:
-*Dr. Renata Avros
-*Prof. Zeev Volkovich
+* Dr. Renata Avros
+* Prof. Zeev Volkovich
 
 Institution: ORT Braude College of Engineering (Software Engineering Department).
